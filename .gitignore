@@ -1,0 +1,4 @@
+# KiCad Temporary Files
+*.lck
+\#auto_saved_files\#
+*-backups/
