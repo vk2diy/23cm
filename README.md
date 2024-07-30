@@ -12,9 +12,13 @@ Various changes have been made to the design, outlined below.
 
 ## Original design details
 
-Bas de Jong (PE1JPD)'s [original project page](http://www.pe1jpd.nl/index.php/23cm_nbfm/) describes the overall design, made in 2015, notably including [this 2016 revised schematic](docs/23nbfmsch32.jpg).
+Bas de Jong (PE1JPD)'s [original project page](http://www.pe1jpd.nl/index.php/23cm_nbfm/) describes the overall design, made in 2015, notably including this 2016 revised schematic.
 
-Werner Mauser (JN48OL)'s [forked repository](https://github.com/wemaus/23cm-NBFM-Trx) provides firmware improvements, notably including [this further revised and schematic](docs/23cm NBFM-Transceiver_col.pdf) (redrawn in KiCad 3.0).
+![image](docs/23nbfmsch32.jpg)
+
+Werner Mauser (JN48OL)'s [forked repository](https://github.com/wemaus/23cm-NBFM-Trx) provides firmware improvements, notably including a further revised schematic redrawn in KiCad 3.0.
+
+![image](docs/23cm-pdf-thumbnail.jpg) 
 
 ## Changes from prior versions
 
