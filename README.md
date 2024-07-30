@@ -4,6 +4,8 @@ An open source 23cm narrow band FM transceiver.
 
 KiCad format, optimized for JLCPCB.
 
+Status: Schematic under active definition, not yet complete.
+
 ## Background
 
 Prompted by a presentation by Richard (VK2VD) at Amateur Radio NSW on the 28th of July, 2024, this repository attempts to provide a design including all KiCad source files representing a derivative of the design by Bas de Jong (PE1JPD) with later firmware updates by Werner Mauser (JN48OL).
