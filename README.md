@@ -4,7 +4,7 @@ An open source 23cm narrow band FM transceiver.
 
 KiCad format, optimized for JLCPCB.
 
-Status: Schematic under active definition, not yet complete.
+Status: Schematic under active redefinition, BOM largely verified, firmware converted to platformio and compiling, schematic as yet incomplete and layout not begun.
 
 ## Background
 
