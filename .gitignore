@@ -2,3 +2,4 @@
 *.lck
 \#auto_saved_files\#
 *-backups/
+*.bak
