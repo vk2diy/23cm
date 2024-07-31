@@ -35,5 +35,5 @@ Werner Mauser (JN48OL)'s [forked repository](https://github.com/wemaus/23cm-NBFM
 ## Contents
 
  * __docs__: Design documentation.
- * __firmware__: Currently unaltered firmware from Werner Mauser (JN48OL).
+ * __firmware__: Currently unaltered firmware from Werner Mauser (JN48OL) converted to compile with platformio.
  * __23cm-trx-kicad__: KiCad project directory for the 23cm transceiver.
