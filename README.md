@@ -34,7 +34,7 @@ Werner Mauser (JN48OL)'s [forked repository](https://github.com/wemaus/23cm-NBFM
  * __Schematic__: Completely redrawn to emphasize legibility through reducing cognitive load with block-based / modular schematic. Use named labels instead of single page all-in-one view with crossed nets. Hopefully still works!
  * __VCO__: Neither of the VCOs mentioned seem to be obtainable. A shortlist of potential replacements has been gathered:
    * M1200 (+0-5V = 1150-1350MHz) - 6RMB @ [Manufacturer](https://www.fresend.com/productinfo/647892.html)
-   * RFINT INNOTION YSGM 111308 (+0.5-4.5V = 1100-1350MHz, nominal 1050-1400MHz support) - - $1.14 @ [AliExpress] (multi-vendor)
+   * RFINT INNOTION YSGM 111308 (+0.5-4.5V = 1100-1350MHz, nominal 1050-1400MHz support) - $1.14 @ [AliExpress](https://www.aliexpress.com/item/1005005589982171.html)
    * FDK IR013 (1200-1400MHz) - $1.08 @ [AliExpress](https://www.aliexpress.com/item/1005007461973192.html)
    * UCVE1-W05A (marked "A041"; 1200-1670MHz) - $0.89 @ [AliExpress](https://www.aliexpress.com/item/1005005589963281.html)
    * MURATA MQW540A1G40R6 (1200-1600MHz) - $1.73 @ [AliExpress](https://www.aliexpress.com/item/1005007376224853.html)
