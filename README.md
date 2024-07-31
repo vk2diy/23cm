@@ -32,7 +32,7 @@ Werner Mauser (JN48OL)'s [forked repository](https://github.com/wemaus/23cm-NBFM
  * __MCU__: Use an MCU module (Arduino Nano v3) instead of a bare chip in order to reduce cost, increase convenience, support USB programming, and focus the schematic on the application.
  * __Power supply__: Drop 13.8V DC 'charged lead acid battery level' input to support a modern supply voltage (24V) and include a regulator with high current support.
  * __Schematic__: Completely redrawn to emphasize legibility through reducing cognitive load with block-based / modular schematic. Use named labels instead of single page all-in-one view with crossed nets. Hopefully still works!
- * __VCO__: Neither of the VCOs mentioned seem to be obtainable. A shortlist of potential replacements has been gathered:
+ * __VCO__: Neither of the VCOs mentioned seem to be obtainable. A shortlist of potential replacements has been gathered. No doubt voltage levels on both the supply and tuning sides will need adjustment in order to integrate.
    * M1200 (+0-5V = 1150-1350MHz) - 6RMB @ [Manufacturer](https://www.fresend.com/productinfo/647892.html)
    * RFINT INNOTION YSGM 111308 (+0.5-4.5V = 1100-1350MHz, nominal 1050-1400MHz support) - $1.14 @ [AliExpress](https://www.aliexpress.com/item/1005005589982171.html)
    * FDK IR013 (1200-1400MHz) - $1.08 @ [AliExpress](https://www.aliexpress.com/item/1005007461973192.html)
