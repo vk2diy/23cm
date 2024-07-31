@@ -3133,12 +3133,612 @@
 				)
 			)
 		)
+		(symbol "Transistor_BJT:BC547"
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 5.08 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "BC547"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+				(at 5.08 -1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "NPN Transistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO?92*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "BC547_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0.635 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 0.635) (xy 2.54 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 -0.635) (xy 2.54 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 1.905) (xy 0.635 -1.905) (xy 0.635 -1.905)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.778) (xy 1.778 -1.27) (xy 2.286 -2.286) (xy 1.27 -1.778) (xy 1.27 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 1.27 0)
+					(radius 2.8194)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "BC547_1_1"
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 5.08)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "E"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Transistor_BJT:BC557"
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 5.08 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "BC557"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+				(at 5.08 -1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "0.1A Ic, 45V Vce, PNP Small Signal Transistor, TO-92"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "PNP Transistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO?92*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "BC557_0_1"
+				(polyline
+					(pts
+						(xy 0.635 0.635) (xy 2.54 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 -0.635) (xy 2.54 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 1.905) (xy 0.635 -1.905) (xy 0.635 -1.905)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 -1.778) (xy 1.778 -2.286) (xy 1.27 -1.27) (xy 2.286 -1.778) (xy 2.286 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 1.27 0)
+					(radius 2.8194)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "BC557_1_1"
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 5.715)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "E"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Transistor_BJT:BD138"
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 5.08 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "BD138"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_THT:TO-126-3_Vertical"
+				(at 5.08 -1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00001225.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "1.5A Ic, 60V Vce, Low Voltage Transistor, TO-126"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "Low Voltage Transistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO?126*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "BD138_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0.635 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 0.635 -0.635)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 0.635 0.635)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 1.905) (xy 0.635 -1.905) (xy 0.635 -1.905)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.778 -2.286) (xy 2.286 -1.778) (xy 1.27 -1.27) (xy 1.778 -2.286) (xy 1.778 -2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 1.27 0)
+					(radius 2.8194)
+					(stroke
+						(width 0.3048)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "BD138_1_1"
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "E"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 5.08)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 	)
 	(junction
 		(at 194.31 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0f0b0bf4-7ed7-4fd4-aefb-f0a6a33f9518")
+	)
+	(junction
+		(at 53.34 161.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1c3f0724-4726-4530-bc03-ff215964aa72")
 	)
 	(junction
 		(at 227.33 43.18)
@@ -3151,6 +3751,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "37699e49-68e3-4d02-b6df-b46897101df4")
+	)
+	(junction
+		(at 53.34 171.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "37fab262-d37d-4669-a425-227f58d77e98")
 	)
 	(junction
 		(at 248.92 82.55)
@@ -3189,6 +3795,12 @@
 		(uuid "754039e5-e2ca-4b5f-9b42-028983db5493")
 	)
 	(junction
+		(at 43.18 156.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7ea061ae-f02e-40da-bfca-c2ece5feb883")
+	)
+	(junction
 		(at 68.58 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3217,6 +3829,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a29c7afe-a70d-4813-b173-a12ad68a62b5")
+	)
+	(junction
+		(at 43.18 161.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ac787abc-409b-4a9d-913c-bc5178bd9ab2")
 	)
 	(junction
 		(at 224.79 90.17)
@@ -3312,6 +3930,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 156.21) (xy 43.18 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d130301-84a0-4c3e-b89e-ec3b31a9ce08")
+	)
+	(wire
+		(pts
 			(xy 67.31 68.58) (xy 67.31 77.47)
 		)
 		(stroke
@@ -3332,6 +3960,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 161.29) (xy 57.15 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15614bda-1523-4c56-bbfe-64847e121581")
+	)
+	(wire
+		(pts
 			(xy 130.81 36.83) (xy 133.35 36.83)
 		)
 		(stroke
@@ -3349,6 +3987,26 @@
 			(type default)
 		)
 		(uuid "1b8acce7-bfc4-45b1-a3e7-f11e0b680f04")
+	)
+	(wire
+		(pts
+			(xy 50.8 171.45) (xy 53.34 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c0f8892-8007-4dee-a810-2363531d4e60")
+	)
+	(wire
+		(pts
+			(xy 53.34 163.83) (xy 53.34 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1eed83e7-c564-40ac-a5af-6fd7ef91d23c")
 	)
 	(wire
 		(pts
@@ -3582,6 +4240,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 161.29) (xy 43.18 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "714ff800-26ba-4890-88ed-4e24237a915c")
+	)
+	(wire
+		(pts
 			(xy 90.17 85.09) (xy 90.17 91.44)
 		)
 		(stroke
@@ -3639,6 +4307,26 @@
 			(type default)
 		)
 		(uuid "92a94819-d87c-4199-b825-e2674cf39e7e")
+	)
+	(wire
+		(pts
+			(xy 43.18 156.21) (xy 49.53 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "965a68ce-5ef2-4719-a075-aec616fd6553")
+	)
+	(wire
+		(pts
+			(xy 53.34 168.91) (xy 53.34 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a8573c1-e5f5-4403-acbf-40c0705fd6ae")
 	)
 	(wire
 		(pts
@@ -3759,6 +4447,16 @@
 			(type default)
 		)
 		(uuid "b43a5d48-1db7-420f-930c-bc26f0dae025")
+	)
+	(wire
+		(pts
+			(xy 31.75 156.21) (xy 34.29 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4ba32f7-fdd7-42eb-a063-6ad939d8a1f2")
 	)
 	(wire
 		(pts
@@ -3899,6 +4597,26 @@
 			(type default)
 		)
 		(uuid "e49c80ed-bc5b-49ef-a069-cd6ac992dc39")
+	)
+	(wire
+		(pts
+			(xy 43.18 161.29) (xy 43.18 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e66bf33b-0c63-4c75-b764-18c3882dd5eb")
+	)
+	(wire
+		(pts
+			(xy 53.34 171.45) (xy 55.88 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8fb6447-25b1-407b-b7f8-dc789b928a67")
 	)
 	(wire
 		(pts
@@ -4105,6 +4823,16 @@
 		)
 		(uuid "8e636ebc-86ad-4345-8f86-18446ea098b3")
 	)
+	(text "DRAW SYMBOL\nFOR TCXO-13MHZ"
+		(exclude_from_sim no)
+		(at 143.764 130.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "94ec2c2d-68ac-4947-9bab-8521469afa1e")
+	)
 	(text "USER MENU INPUT"
 		(exclude_from_sim no)
 		(at 193.802 91.186 0)
@@ -4116,6 +4844,16 @@
 			)
 		)
 		(uuid "979c4b74-4c9c-4821-aa8c-fe46a9b1f557")
+	)
+	(text "DRAW SYMBOL\nFOR ADF4153"
+		(exclude_from_sim no)
+		(at 143.764 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9b33d74d-a0a3-424b-acc7-395dc911006f")
 	)
 	(text "MCU-ORIGINATED AUDIO"
 		(exclude_from_sim no)
@@ -4150,6 +4888,16 @@
 			)
 		)
 		(uuid "c47f4670-6b33-4b06-8318-a5caf6db7714")
+	)
+	(text "NOTE PIN NUMBERS\nARE MISMATCHED\nTO ORIGINAL PDF\nSCHEMATIC. ASSUME\nKICAD SYMBOL BUG,\nSINCE RESOLVED."
+		(exclude_from_sim no)
+		(at 30.226 165.608 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "db8bca33-e657-4461-8d4c-6527fffbe290")
 	)
 	(global_label "GND"
 		(shape passive)
@@ -4213,6 +4961,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TXON"
+		(shape input)
+		(at 68.58 161.29 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "078fb27d-5dc2-4594-85ec-f2534a422509")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 68.58 153.4667 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -4516,6 +5286,28 @@
 		(uuid "3e5db085-c298-40ab-8447-26c8ec3cace0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 105.41 104.8044 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape passive)
+		(at 68.58 176.53 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "45d45c08-f026-4424-b6f0-5931ab203dd5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 68.58 182.2744 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5075,6 +5867,28 @@
 			)
 		)
 	)
+	(global_label "+TX"
+		(shape output)
+		(at 31.75 156.21 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a259dde3-896b-474a-a0f9-1b9873db0901")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 25.0153 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "MIC-AUDIO"
 		(shape output)
 		(at 114.3 88.9 0)
@@ -5462,6 +6276,28 @@
 		(uuid "d7cccb29-d99b-43f6-8c6d-5b5c985682df")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 121.0287 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "+TX"
+		(shape output)
+		(at 43.18 176.53 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e1a7d409-6880-4c02-8206-ff5c6bec690f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 43.18 183.2647 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6899,6 +7735,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 43.18 158.75 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "53510895-3a8e-48aa-8d5b-95236fe007ac")
+		(property "Reference" "R18"
+			(at 45.72 157.4799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "15K"
+			(at 45.72 160.0199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 43.18 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 43.18 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 43.18 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8d281c35-1a2b-43b5-a098-66cf12e008ba")
+		)
+		(pin "1"
+			(uuid "c5d7b19c-6df3-4c2b-b270-166adb49ed15")
+		)
+		(instances
+			(project "23cm-trx-kicad"
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "R18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 248.92 90.17 0)
 		(unit 1)
@@ -6963,6 +7869,82 @@
 			(project ""
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
 					(reference "C14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_BJT:BC557")
+		(at 54.61 156.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "66dcf778-71bb-4e94-a663-3c383bf9f6f2")
+		(property "Reference" "Q3"
+			(at 59.69 154.9399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BC557"
+			(at 59.69 157.4799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+			(at 59.69 158.115 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf"
+			(at 54.61 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1A Ic, 45V Vce, PNP Small Signal Transistor, TO-92"
+			(at 54.61 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "afaba370-0894-46cb-8719-3ece56aa5af7")
+		)
+		(pin "2"
+			(uuid "037378ee-225d-4978-88f5-521eb8cd1cf5")
+		)
+		(pin "3"
+			(uuid "faf1d765-32b0-412b-90dd-c1b26caabf82")
+		)
+		(instances
+			(project ""
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "Q3")
 					(unit 1)
 				)
 			)
@@ -7768,6 +8750,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 68.58 163.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "acc63443-566f-466a-9a93-b8ca490ecf85")
+		(property "Reference" "R12"
+			(at 72.644 163.068 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "4.7K"
+			(at 72.898 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 68.58 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 68.58 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 68.58 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "89bdc1c1-228c-40ab-b1cd-43d7a3a66b18")
+		)
+		(pin "2"
+			(uuid "d4dcbf3e-d9ca-4ba0-b201-81ab22248fcf")
+		)
+		(instances
+			(project ""
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Polarized_Small")
 		(at 243.84 71.12 90)
 		(unit 1)
@@ -7905,6 +8954,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 58.42 171.45 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ba4ce013-dbc7-44f7-b28a-05e673eb94d5")
+		(property "Reference" "R16"
+			(at 58.42 175.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "470"
+			(at 58.42 177.546 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 58.42 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 58.42 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 58.42 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d77d366b-f7a3-445e-8e55-62b5a19ecf2f")
+		)
+		(pin "1"
+			(uuid "73f1e770-022a-4612-a4bc-2b5d0d9e5af9")
+		)
+		(instances
+			(project ""
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Potentiometer")
 		(at 224.79 80.01 0)
 		(unit 1)
@@ -7972,6 +9089,75 @@
 			(project ""
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
 					(reference "RV1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 36.83 156.21 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bd23249b-91be-414b-8275-cd289c52adec")
+		(property "Reference" "R19"
+			(at 38.354 151.638 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "4.7K"
+			(at 38.862 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 36.83 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 36.83 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 36.83 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c89fd8b3-c117-48bb-a5ce-252d5176d7a3")
+		)
+		(pin "1"
+			(uuid "33d5637f-55d0-492c-a85b-c406805ceff3")
+		)
+		(instances
+			(project "23cm-trx-kicad"
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -8261,6 +9447,81 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_BJT:BD138")
+		(at 45.72 171.45 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e1898cdb-f28d-4fda-b945-44dd7c31d319")
+		(property "Reference" "Q2"
+			(at 49.53 174.752 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BD138"
+			(at 53.086 177.038 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-126-3_Vertical"
+			(at 40.64 169.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00001225.pdf"
+			(at 45.72 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "1.5A Ic, 60V Vce, Low Voltage Transistor, TO-126"
+			(at 45.72 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a923a3d8-3f2e-4821-878d-fb42097075dc")
+		)
+		(pin "2"
+			(uuid "a208f357-2fd4-49d1-8155-530bd8cec85e")
+		)
+		(pin "3"
+			(uuid "4bc63839-d572-4edf-9691-03b046fbddd9")
+		)
+		(instances
+			(project ""
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "Q2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 210.82 45.72 0)
 		(unit 1)
@@ -8324,6 +9585,76 @@
 			(project "23cm-trx-kicad"
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
 					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 53.34 166.37 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e8003c75-3b4d-4e51-bea3-113a2723f1d8")
+		(property "Reference" "R17"
+			(at 55.88 165.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "15K"
+			(at 55.88 167.6399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 53.34 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 53.34 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 53.34 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5e5e8643-2b17-42bf-9d3e-d6eda16039a7")
+		)
+		(pin "1"
+			(uuid "0cf0fd0b-b253-4da5-9d8d-8c23ce44e128")
+		)
+		(instances
+			(project ""
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -8623,6 +9954,82 @@
 			(project ""
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
 					(reference "A1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_BJT:BC547")
+		(at 66.04 171.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eab83140-7f0b-47f5-ab06-13c1222435cc")
+		(property "Reference" "Q1"
+			(at 71.12 170.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BC547"
+			(at 71.12 172.7199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+			(at 71.12 173.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
+			(at 66.04 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
+			(at 66.04 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "e5edaacf-c311-43dc-a3a8-e53daf4e3f0d")
+		)
+		(pin "2"
+			(uuid "5623cef8-3d1e-432a-8236-3fb379b3b0f4")
+		)
+		(pin "1"
+			(uuid "c70a1cd7-e21f-4696-840a-0ba73c73be3e")
+		)
+		(instances
+			(project ""
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "Q1")
 					(unit 1)
 				)
 			)
