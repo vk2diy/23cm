@@ -24,10 +24,11 @@ Werner Mauser (JN48OL)'s [forked repository](https://github.com/wemaus/23cm-NBFM
 
 ## Changes from prior versions
 
- * __Schematic__: Extensive use of named labels rather than a confusing array of lines.
- * __Power supply__: Drop anachronistic fixation on old-school 13.8V DC 'charged lead acid battery level' to support a modern supply voltage (24V).
- * __MCU__: Use an MCU module instead of a bare chip in order to reduce cost, increase convenience, support USB programming, and focus the schematic on the application.
- * __Components__: As far as possible, specify SMT components that are available in 2024. Prefer to over-specify components where economically insignificant to increase longevity.
+ * __Components__: Focus on SMT components available in 2024. Prefer to over-specify components where economically insignificant to increase longevity.
+ * __Display__: Migrate the LCD to an I2C interface. Necessitates re-allocating `MUTE` and `RSSI` to alternate pins, plus software changes. However, nominally opens I2C for other peripherals and features and is much neater in terms of simplifying the schematic.
+ * __MCU__: Use an MCU module (Arduino Nano v3) instead of a bare chip in order to reduce cost, increase convenience, support USB programming, and focus the schematic on the application.
+ * __Power supply__: Drop old-school 13.8V DC 'charged lead acid battery level' input to support a modern supply voltage (24V) and include a regulator with high current support.
+ * __Schematic__: Emphasize legibility and use named labels instead of crossing nets.
 
 ## Contents
 
