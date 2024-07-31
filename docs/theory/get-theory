@@ -1,0 +1,5 @@
+wget 'https://www.renesas.cn/cn/zh/document/apn/pll-loop-filter-design-and-fine-tuning' -O renesas-pll-loop-filter-design-and-fine-tuning.pdf
+wget 'https://www.ti.com/lit/ml/snap003/snap003.pdf' -O ti-snap003.pdf
+wget -r -nH -np --accept-regex 'ecen620.html|.*lecture.*\.pdf' -k https://people.engr.tamu.edu/spalermo/ecen620.html && rm spalermo/*.html
+wget 'https://www.analog.com/media/en/analog-dialogue/volume-43/number-4/articles/designing-plls-with-high-voltage-vcos.pdf' -O analog-devices-designing-plls-with-high-voltage-vcos.pdf
+wget -r -nH -np --accept-regex 'index.html|.*\.pdf' 'https://www.cppsim.com/PLL_Lectures/'
