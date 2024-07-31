@@ -1,9 +1,12 @@
-wget 'https://www.renesas.cn/cn/zh/document/apn/pll-loop-filter-design-and-fine-tuning' -O renesas-pll-loop-filter-design-and-fine-tuning.pdf
-wget 'https://www.ti.com/lit/ml/snap003/snap003.pdf' -O ti-snap003.pdf
-wget -r -nH -np --accept-regex 'ecen620.html|.*lecture.*\.pdf' -k https://people.engr.tamu.edu/spalermo/ecen620.html && rm spalermo/*.html
-wget 'https://www.analog.com/media/en/analog-dialogue/volume-43/number-4/articles/designing-plls-with-high-voltage-vcos.pdf' -O analog-devices-designing-plls-with-high-voltage-vcos.pdf
-wget -r -nH -np --accept-regex 'index.html|.*\.pdf' 'https://www.cppsim.com/PLL_Lectures/'
-wget https://www.theseus.fi/bitstream/handle/10024/163525/Kwak_MyoungJun.pdf
-wget https://www.analog.com/media/en/analog-dialogue/volume-52/number-3/phase-locked-loop-pll-fundamentals.pdf
-wget https://web.ece.ucsb.edu/~long/ece594a/PLL_intro_594a_s05.pdf
-wget https://web.ece.ucsb.edu/~long/ece594a/DLL.pdf
+wget -nc 'https://www.renesas.cn/cn/zh/document/apn/pll-loop-filter-design-and-fine-tuning' -O renesas-pll-loop-filter-design-and-fine-tuning.pdf
+wget -nc 'https://www.ti.com/lit/ml/snap003/snap003.pdf' -O ti-snap003.pdf
+wget -nc -r -nH -np --accept-regex 'ecen620.html|.*lecture.*\.pdf' -k https://people.engr.tamu.edu/spalermo/ecen620.html && rm spalermo/*.html
+wget -nc 'https://www.analog.com/media/en/analog-dialogue/volume-43/number-4/articles/designing-plls-with-high-voltage-vcos.pdf' -O analog-devices-designing-plls-with-high-voltage-vcos.pdf
+wget -nc -r -nH -np --accept-regex 'index.html|.*\.pdf' 'https://www.cppsim.com/PLL_Lectures/'
+wget -nc https://www.theseus.fi/bitstream/handle/10024/163525/Kwak_MyoungJun.pdf
+wget -nc https://www.analog.com/media/en/analog-dialogue/volume-52/number-3/phase-locked-loop-pll-fundamentals.pdf
+wget -nc https://web.ece.ucsb.edu/~long/ece594a/PLL_intro_594a_s05.pdf
+wget -nc https://web.ece.ucsb.edu/~long/ece594a/DLL.pdf
+wget -nc https://www.analog.com/media/en/analog-dialogue/volume-33/number-1/articles/pll-for-high-frequency-receivers-and-transmitters-1.pdf
+wget -nc https://www.analog.com/media/en/analog-dialogue/volume-33/number-1/articles/pll-for-high-frequency-receivers-and-transmitters-2.pdf
+wget -nc https://www.analog.com/media/en/analog-dialogue/volume-33/number-1/articles/pll-for-high-frequency-receivers-and-transmitters-3.pdf
