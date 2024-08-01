@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "02f64fd1-78db-4ce7-af00-a5ea9858044e")
-	(paper "A4")
+	(paper "A3")
 	(lib_symbols
 		(symbol "23cm-trx-kicad-symbol-library:ADF4153"
 			(exclude_from_sim no)
@@ -374,6 +374,517 @@
 					(at 10.16 3.81 180)
 					(length 2.54)
 					(name "DGND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "23cm-trx-kicad-symbol-library:MC3362"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MC3362"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.discriminator.nl/ic/mc3362.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Low power narrowband FM receiver."
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "MC3362"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Motorola"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MC3362_1_1"
+				(rectangle
+					(start -17.78 35.56)
+					(end 17.78 2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -20.32 33.02 0)
+					(length 2.54)
+					(name "MIXER1_IN1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -20.32 10.16 0)
+					(length 2.54)
+					(name "METER_DRIVE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -20.32 7.62 0)
+					(length 2.54)
+					(name "CARRIER_DETECT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -20.32 5.08 0)
+					(length 2.54)
+					(name "QUADRATURE_COIL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 20.32 5.08 180)
+					(length 2.54)
+					(name "DETECTOR_OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 20.32 7.62 180)
+					(length 2.54)
+					(name "COMPARATOR_IN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 20.32 10.16 180)
+					(length 2.54)
+					(name "COMPARATOR_OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 20.32 12.7 180)
+					(length 2.54)
+					(name "VEE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 20.32 15.24 180)
+					(length 2.54)
+					(name "MIXER2_IN1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 20.32 17.78 180)
+					(length 2.54)
+					(name "MIXER2_IN2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 20.32 20.32 180)
+					(length 2.54)
+					(name "MIXER1_OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -20.32 30.48 0)
+					(length 2.54)
+					(name "LO2_OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 20.32 22.86 180)
+					(length 2.54)
+					(name "LO1_OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 20.32 25.4 180)
+					(length 2.54)
+					(name "LO1_TANK1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 20.32 27.94 180)
+					(length 2.54)
+					(name "LO1_TANK2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 20.32 30.48 180)
+					(length 2.54)
+					(name "VARICAP_CONTROL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 20.32 33.02 180)
+					(length 2.54)
+					(name "MIXER1_IN2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -20.32 27.94 0)
+					(length 2.54)
+					(name "LO2_EMIT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -20.32 25.4 0)
+					(length 2.54)
+					(name "LO2_BASE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -20.32 22.86 0)
+					(length 2.54)
+					(name "MIXER2_OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -20.32 20.32 0)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -20.32 17.78 0)
+					(length 2.54)
+					(name "LIMITER_IN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -20.32 15.24 0)
+					(length 2.54)
+					(name "LIMITER_DCP1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -20.32 12.7 0)
+					(length 2.54)
+					(name "LIMITER_DCP2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5976,7 +6487,7 @@
 	)
 	(text "23CM TRANSCEIVER"
 		(exclude_from_sim no)
-		(at 203.708 189.738 0)
+		(at 326.136 276.86 0)
 		(effects
 			(font
 				(size 2.032 2.032)
@@ -6001,7 +6512,7 @@
 	)
 	(text "DRAW SYMBOL\nFOR VCO"
 		(exclude_from_sim no)
-		(at 233.172 171.704 0)
+		(at 355.6 258.826 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6020,16 +6531,6 @@
 			)
 		)
 		(uuid "23ed54e7-90f3-4095-8122-087592c8b5e9")
-	)
-	(text "DRAW SYMBOL\nFOR MC3362"
-		(exclude_from_sim no)
-		(at 270.764 171.45 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "2ed2b9a0-a497-432a-93f3-0f756417a5ed")
 	)
 	(text "POWER\nAMPLIFIER\n(PA)"
 		(exclude_from_sim no)
@@ -6134,7 +6635,7 @@
 	)
 	(text "PARTIAL DRAFT"
 		(exclude_from_sim no)
-		(at 276.098 193.294 0)
+		(at 398.526 280.416 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6328,7 +6829,7 @@
 	)
 	(text "NOTING HAMS WANT THE 1240-1300 MHz RANGE:\n\nPOSSIBLE VCOs @ 1100-1350MHz:\n - ALPS-1679C (NO RECORD) - UNOBTAINIUM\n - Y17C (GERMAN RECORD AT https://www.mikrocontroller.net/topic/353869 SUGGESTS 0.5V-9V RANGE NAVIGATES 1087-1345MHz) - UNOBTAINIUM\n\nOTHERS (GOOD):\n - M1200 (NOMINAL 1200MHz, +0-5V NAVIGATES 1150-1350MHz) - 6RMB @ https://www.fresend.com/productinfo/647892.html [CURRENT PRODUCT]\n - RFINT INNOTION YSGM 111308 (NOMINAL 1200MHz, +0.5-4.5V NAVIGATES 1100-1350MHz, THEORETICAL 1050-1400MHz RANGE) - $1.14 @ https://www.aliexpress.com/item/1005005589982171.html [MULTI VENDOR]\n - FDK IR013 (NOMINAL 1300MHz, NAVIGATES 1200-1400MHz) - $1.08 @ https://www.aliexpress.com/item/1005007461973192.html\n - UCVE1-W05A (MARKED A041; NAVIGATES 1200-1670MHz) - $0.89 @ https://www.aliexpress.com/item/1005005589963281.html or $3.20 @ https://www.aliexpress.com/item/1005007218413812.html\n - MURATA MQW540A1G40R6 (NOMINAL 1500MHz, NAVIGATES 1200-1600MHz) - $1.73 @ https://www.aliexpress.com/item/1005007376224853.html\n - MARUWA MVE-1377 (MARKED E1377; NOMINAL 1377MHZ; NAVIGATES 1200-1400MHz) - $1.73 @ https://www.aliexpress.com/item/1005007372058424.html\n - ENFVH1D2SA4 (MARKED 12 VHA4; NAVIGATES 1200-1400MHz) - $2.16 @ https://www.aliexpress.com/item/1005007376529487.html\n \nOTHERS (SKETCHY):\n - FLYSTEN FVCO1200 (NOMINAL 1200MHz, NAVIGATES 1100-1300MHz) - $4 @ https://www.aliexpress.com/item/1005006828275413.html - TOP END IFFY\n - TDK QVC811171RT-2045 (OBSOLETE; NOMINAL 1171MHz, NAVIGATES ?) - $2.59 @ https://www.aliexpress.com/item/1005006430205486.html\n\nOTHERS (NO GOOD):\n - MAX2754 (NOMINAL 1200MHz, +0.4-2.4V NAVIGATES 1145-1250MHz) - $4 @ https://www.aliexpress.com/item/32834463347.html - NO FREQUENCY MATCH\n\nOTHERS (NO SUPPLY OR INFO):\n - Alps E-D18A (1100-1400MHz)\n - Kruse Electronics 5011M2 (ANTIQUE)\n - PE1V13013 (1200-1800MHz)\n - PE1V11018 (1200-1800MHz)"
 		(exclude_from_sim no)
-		(at 302.768 41.402 0)
+		(at 124.714 246.38 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9617,6 +10118,158 @@
 			(project "23cm-trx-kicad"
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "23cm-trx-kicad-symbol-library:MC3362")
+		(at 337.82 193.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3b07bbb6-bbdb-4d80-a271-2c23ed844fd4")
+		(property "Reference" "U5"
+			(at 337.82 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MC3362"
+			(at 337.82 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm"
+			(at 337.82 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.discriminator.nl/ic/mc3362.pdf"
+			(at 337.82 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Low power narrowband FM receiver."
+			(at 337.82 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MC3362"
+			(at 337.82 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Motorola"
+			(at 337.82 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "17"
+			(uuid "fe107def-746e-4fb0-926c-e7ca137e5c06")
+		)
+		(pin "7"
+			(uuid "ed38ea02-0a70-40b4-804b-69327504a30b")
+		)
+		(pin "20"
+			(uuid "590453d5-d8ab-4a6d-ae0d-e5e8ff5cbad7")
+		)
+		(pin "10"
+			(uuid "127c781f-dc4a-487c-b414-27ac7ac97ec5")
+		)
+		(pin "12"
+			(uuid "3283695c-40f0-45a9-abb9-f172cdc4c630")
+		)
+		(pin "2"
+			(uuid "477a8202-70a5-4d8e-8971-aa24441a3985")
+		)
+		(pin "16"
+			(uuid "195d07f7-0db7-41cc-9d74-5fa59d733bd1")
+		)
+		(pin "18"
+			(uuid "ed3b59ff-a48e-456b-aa09-2e3e3b1a256b")
+		)
+		(pin "1"
+			(uuid "b9edb4fa-98bb-48d0-83b8-2722cef4847d")
+		)
+		(pin "9"
+			(uuid "0adf15a0-4281-40be-8d4a-ae5ae6aedbf9")
+		)
+		(pin "3"
+			(uuid "acb10bfb-38f3-472a-89d1-bf53b9414c1d")
+		)
+		(pin "22"
+			(uuid "802b90b8-d6c1-4dfc-a6ca-f48a703c82ff")
+		)
+		(pin "19"
+			(uuid "a0e9182a-d83a-4ac1-bbe3-b4b69457eb5c")
+		)
+		(pin "24"
+			(uuid "44894a19-4bac-4e11-8e15-a18f4d1445c1")
+		)
+		(pin "23"
+			(uuid "7ba7712a-264d-40d7-8c1d-bfa2efaecda0")
+		)
+		(pin "15"
+			(uuid "4866faf3-5ac4-445d-a73c-7d558803cc0b")
+		)
+		(pin "6"
+			(uuid "c076d73c-5b54-4f05-b57f-952d71d3ba46")
+		)
+		(pin "13"
+			(uuid "ba20ec7a-de76-43c7-80a1-b5cb43566a21")
+		)
+		(pin "11"
+			(uuid "7cd2ff26-ff66-4a54-a2f0-84f39032df6f")
+		)
+		(pin "14"
+			(uuid "e2b429a4-01c3-4d11-8837-829a6a5a2f49")
+		)
+		(pin "4"
+			(uuid "79f456f5-f5de-4891-8d33-90bf582d3f72")
+		)
+		(pin "5"
+			(uuid "63cd1129-57a3-45e4-b54b-23254b0903f8")
+		)
+		(pin "8"
+			(uuid "fb8e5e6d-3c18-40bc-80f6-da8e2104f8dd")
+		)
+		(pin "21"
+			(uuid "2d6abcff-8ad4-4382-bb0a-2b97b174a9ac")
+		)
+		(instances
+			(project ""
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "U5")
 					(unit 1)
 				)
 			)
