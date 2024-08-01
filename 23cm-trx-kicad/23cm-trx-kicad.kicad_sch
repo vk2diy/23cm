@@ -4447,10 +4447,10 @@
 		)
 	)
 	(junction
-		(at 201.93 27.94)
+		(at 234.95 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0f0b0bf4-7ed7-4fd4-aefb-f0a6a33f9518")
+		(uuid "03990aac-072f-4bfd-982a-d9f51ac8b0c2")
 	)
 	(junction
 		(at 53.34 161.29)
@@ -4459,28 +4459,16 @@
 		(uuid "1c3f0724-4726-4530-bc03-ff215964aa72")
 	)
 	(junction
-		(at 234.95 41.91)
+		(at 248.92 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "375a474f-c9df-4b5a-aec4-4a0e3ee2e9d6")
-	)
-	(junction
-		(at 120.65 48.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "37699e49-68e3-4d02-b6df-b46897101df4")
+		(uuid "35a24b72-00cb-4bdf-810b-ade62ac76640")
 	)
 	(junction
 		(at 53.34 171.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "37fab262-d37d-4669-a425-227f58d77e98")
-	)
-	(junction
-		(at 248.92 82.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3ba9f526-0ecb-4180-8d14-e315c8a322dd")
 	)
 	(junction
 		(at 234.95 71.12)
@@ -4507,10 +4495,28 @@
 		(uuid "4640433b-89e1-4c8d-b2e3-646f0c662db4")
 	)
 	(junction
+		(at 120.65 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4aa2338d-f3aa-48ad-a8d9-d421f010878d")
+	)
+	(junction
+		(at 254 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4da3b8fc-4fb8-4eeb-92f0-1248718907d1")
+	)
+	(junction
 		(at 160.02 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "546193ad-671f-4a1a-bf2a-bc00daac9751")
+	)
+	(junction
+		(at 218.44 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65cc508e-1048-4baa-a4ae-d6295fd68a57")
 	)
 	(junction
 		(at 184.15 149.86)
@@ -4537,6 +4543,12 @@
 		(uuid "7ea061ae-f02e-40da-bfca-c2ece5feb883")
 	)
 	(junction
+		(at 218.44 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "88b66f65-5609-4015-aadd-4d5b7671d968")
+	)
+	(junction
 		(at 68.58 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4553,12 +4565,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "95eb93b7-eb47-403a-a468-95d7e9fab590")
-	)
-	(junction
-		(at 234.95 27.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "95ff57eb-4084-42ab-b80b-464cf382535b")
 	)
 	(junction
 		(at 184.15 146.05)
@@ -4600,7 +4606,13 @@
 		(at 212.09 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c2acaeb4-77f0-4526-9c8f-49b287a281cf")
+		(uuid "ba2ebdb7-0bd8-4e01-90d7-b05c29140e5d")
+	)
+	(junction
+		(at 234.95 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "be88ddd6-d635-4a90-9abf-f10ddb08ff55")
 	)
 	(junction
 		(at 194.31 135.89)
@@ -4609,10 +4621,10 @@
 		(uuid "c3d8d27a-35e8-4a4a-812d-a57952b82ab6")
 	)
 	(junction
-		(at 218.44 41.91)
+		(at 201.93 27.94)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c77e2974-6a52-4f07-8b92-d7749b0c8cf3")
+		(uuid "ca978adb-5d8a-48d4-8c9f-56b7ac7b3d1f")
 	)
 	(junction
 		(at 149.86 135.89)
@@ -4621,22 +4633,10 @@
 		(uuid "dec554ac-674b-4ef1-94aa-634179c86019")
 	)
 	(junction
-		(at 218.44 27.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e5587ed2-2c5f-4cf8-afbe-92d14a33a1db")
-	)
-	(junction
 		(at 190.5 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e5ca2d3c-c2bd-402d-a9e1-ef02f6a886bc")
-	)
-	(junction
-		(at 254 27.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e6628ba8-975d-401c-a99b-f752a6c34d53")
 	)
 	(junction
 		(at 87.63 81.28)
@@ -4698,6 +4698,26 @@
 	)
 	(wire
 		(pts
+			(xy 234.95 27.94) (xy 245.11 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02ca315f-65f4-4598-8566-b853475a3274")
+	)
+	(polyline
+		(pts
+			(xy 254.635 86.36) (xy 257.81 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04941e2f-ac75-4b4a-a228-47a17346162b")
+	)
+	(wire
+		(pts
 			(xy 53.34 71.12) (xy 53.34 78.74)
 		)
 		(stroke
@@ -4708,7 +4728,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 27.94) (xy 245.11 27.94)
+			(xy 232.41 27.94) (xy 234.95 27.94)
 		)
 		(stroke
 			(width 0)
@@ -4738,6 +4758,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 107.95) (xy 222.25 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ee25657-da82-4cc6-a5e6-33971cf19b9c")
+	)
+	(wire
+		(pts
 			(xy 64.77 64.77) (xy 64.77 73.66)
 		)
 		(stroke
@@ -4745,6 +4775,16 @@
 			(type default)
 		)
 		(uuid "0efab304-8fc3-4825-afc3-b2371adff4e7")
+	)
+	(wire
+		(pts
+			(xy 234.95 41.91) (xy 250.19 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13cbf2f2-44a5-4d37-a9b4-23eded906858")
 	)
 	(wire
 		(pts
@@ -4906,15 +4946,15 @@
 		)
 		(uuid "27b03585-89a9-4e3b-a924-8cfcd0ddeb74")
 	)
-	(wire
+	(polyline
 		(pts
-			(xy 245.11 82.55) (xy 248.92 82.55)
+			(xy 257.81 94.615) (xy 272.415 94.615)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2cc6af46-9197-4c05-abd7-8611e255e791")
+		(uuid "28de9dcb-e1b8-4b06-9cdd-d128f72c5728")
 	)
 	(wire
 		(pts
@@ -5058,16 +5098,6 @@
 	)
 	(wire
 		(pts
-			(xy 254 27.94) (xy 260.35 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4fc2f50d-7541-4192-b60c-900f3af5d321")
-	)
-	(wire
-		(pts
 			(xy 187.96 123.19) (xy 194.31 123.19)
 		)
 		(stroke
@@ -5098,7 +5128,17 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 41.91) (xy 227.33 41.91)
+			(xy 248.92 82.55) (xy 256.54 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "566c0c75-afd2-4e31-ab64-92dfc7392eb6")
+	)
+	(wire
+		(pts
+			(xy 215.9 41.91) (xy 218.44 41.91)
 		)
 		(stroke
 			(width 0)
@@ -5138,7 +5178,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 27.94) (xy 227.33 27.94)
+			(xy 215.9 27.94) (xy 218.44 27.94)
 		)
 		(stroke
 			(width 0)
@@ -5168,7 +5208,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 82.55) (xy 256.54 82.55)
+			(xy 245.11 82.55) (xy 248.92 82.55)
 		)
 		(stroke
 			(width 0)
@@ -5185,26 +5225,6 @@
 			(type default)
 		)
 		(uuid "653ad265-07e8-4cfd-9aba-6cc8494c85ec")
-	)
-	(wire
-		(pts
-			(xy 215.9 27.94) (xy 218.44 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "67987948-f9e8-4d04-a5c1-a7fa83c0a5c6")
-	)
-	(wire
-		(pts
-			(xy 190.5 107.95) (xy 212.09 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "68ab3a1c-6aec-4674-ab8a-9ee5a5f3fad0")
 	)
 	(wire
 		(pts
@@ -5418,6 +5438,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 41.91) (xy 227.33 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a550bfbb-0139-4f95-b1cc-ecae64f946f3")
+	)
+	(wire
+		(pts
 			(xy 162.56 97.79) (xy 162.56 99.06)
 		)
 		(stroke
@@ -5445,6 +5475,16 @@
 			(type default)
 		)
 		(uuid "a7958c65-a1ed-4da1-9c0d-393d2f577f37")
+	)
+	(wire
+		(pts
+			(xy 201.93 27.94) (xy 210.82 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a81cd06d-e188-41b3-a3e3-756c5cbfeb55")
 	)
 	(wire
 		(pts
@@ -5495,16 +5535,6 @@
 			(type default)
 		)
 		(uuid "ac4ca0aa-3c45-44d2-a901-0ae3b4c16403")
-	)
-	(wire
-		(pts
-			(xy 215.9 41.91) (xy 218.44 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "adce4de2-2870-419e-81a7-c2c6d0340600")
 	)
 	(wire
 		(pts
@@ -5578,6 +5608,16 @@
 	)
 	(wire
 		(pts
+			(xy 254 27.94) (xy 260.35 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b718ec4f-dada-4611-84fa-0fc1c86afa4f")
+	)
+	(wire
+		(pts
 			(xy 120.65 107.95) (xy 120.65 110.49)
 		)
 		(stroke
@@ -5645,6 +5685,16 @@
 			(type default)
 		)
 		(uuid "c45f9521-b464-4839-99fb-118355dc3bcd")
+	)
+	(wire
+		(pts
+			(xy 218.44 27.94) (xy 227.33 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c523f511-41dc-4a11-ab0a-715516cf0afe")
 	)
 	(wire
 		(pts
@@ -5718,7 +5768,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 27.94) (xy 210.82 27.94)
+			(xy 199.39 27.94) (xy 201.93 27.94)
 		)
 		(stroke
 			(width 0)
@@ -5766,6 +5816,16 @@
 		)
 		(uuid "e49c80ed-bc5b-49ef-a069-cd6ac992dc39")
 	)
+	(polyline
+		(pts
+			(xy 257.81 86.36) (xy 257.81 94.615)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5845cba-4b47-4fd5-8202-8d705b0a549e")
+	)
 	(wire
 		(pts
 			(xy 43.18 161.29) (xy 43.18 166.37)
@@ -5798,16 +5858,6 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 41.91) (xy 250.19 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee4f5313-5296-45d3-a7b3-bbd49e3d60b7")
-	)
-	(wire
-		(pts
 			(xy 232.41 41.91) (xy 234.95 41.91)
 		)
 		(stroke
@@ -5828,27 +5878,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 27.94) (xy 234.95 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3c9e49e-7911-4bbc-9e80-78b958287138")
-	)
-	(wire
-		(pts
-			(xy 199.39 27.94) (xy 201.93 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f4c8a9ac-acdb-4b0c-bdb5-d8e0a7b0f8e4")
-	)
-	(wire
-		(pts
-			(xy 212.09 107.95) (xy 222.25 107.95)
+			(xy 190.5 107.95) (xy 212.09 107.95)
 		)
 		(stroke
 			(width 0)
@@ -5943,6 +5973,19 @@
 			)
 		)
 		(uuid "12f5ec33-efe5-4412-9de6-927a31939ef3")
+	)
+	(text "23CM TRANSCEIVER"
+		(exclude_from_sim no)
+		(at 203.708 189.738 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+				(thickness 0.4064)
+				(bold yes)
+				(italic yes)
+			)
+		)
+		(uuid "1488972f-26b0-41fa-bea9-de4501463ac5")
 	)
 	(text "MCU"
 		(exclude_from_sim no)
@@ -6077,6 +6120,28 @@
 			(justify left)
 		)
 		(uuid "75597642-f803-44a3-a7ba-a192e8c4b653")
+	)
+	(text "THIS WAS 12 IN THE\nORIGINAL DESIGN, BUT\nIT WAS MORE LOGICAL\nTO USE 10 HERE TO\nREDUCE THE COMPONENT\nCOUNT. SHOULD EQUATE."
+		(exclude_from_sim no)
+		(at 274.066 96.266 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "76b3953e-5bfa-47de-8fed-995a80542765")
+	)
+	(text "PARTIAL DRAFT"
+		(exclude_from_sim no)
+		(at 276.098 193.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(italic yes)
+			)
+		)
+		(uuid "7c2eb29e-248c-4fb2-82b4-b53b2770bf2e")
 	)
 	(text "APPROX. 4A"
 		(exclude_from_sim no)
@@ -8419,144 +8484,6 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 218.44 30.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "03344896-8948-49b5-aa34-39d70fa1b7f1")
-		(property "Reference" "C3"
-			(at 220.98 29.2162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 220.98 31.7562 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 218.44 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 218.44 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 218.44 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8a151fe4-3267-4aab-a475-6e3910397986")
-		)
-		(pin "1"
-			(uuid "827ebcdf-4eb9-45f9-b046-ccf3ea0ef3af")
-		)
-		(instances
-			(project "23cm-trx-kicad"
-				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "C3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 81.28 81.28 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "057956ca-7cf4-48cc-9123-051a0d975cac")
-		(property "Reference" "C9"
-			(at 81.2737 74.93 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100nF"
-			(at 81.2737 77.47 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 81.28 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 81.28 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 81.28 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "68b2069c-194d-445f-a760-7c12684a2165")
-		)
-		(pin "2"
-			(uuid "c85c2260-3fea-4d39-850d-fabffa97f7b5")
-		)
-		(instances
-			(project ""
-				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "C9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
 		(at 201.93 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8582,7 +8509,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 201.93 44.45 0)
 			(effects
 				(font
@@ -8591,7 +8518,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10B332KB8NNNC_C1613.pdf"
 			(at 201.93 44.45 0)
 			(effects
 				(font
@@ -8601,6 +8528,33 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 201.93 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B332KB8NNNC"
+			(at 201.93 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C1613"
+			(at 201.93 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
 			(at 201.93 44.45 0)
 			(effects
 				(font
@@ -8619,144 +8573,6 @@
 			(project "23cm-trx-kicad"
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
 					(reference "C5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 200.66 154.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "098facb5-417c-4538-a77e-3f7c13ccd779")
-		(property "Reference" "C23"
-			(at 203.2 153.6762 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 203.2 156.2162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 200.66 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 200.66 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 200.66 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "334d0e28-0272-4941-a359-e45ee609f7ff")
-		)
-		(pin "1"
-			(uuid "0e1bb608-759a-4620-b008-bdd8349913de")
-		)
-		(instances
-			(project "23cm-trx-kicad"
-				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "C23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 212.09 110.49 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0af3167c-bc3b-4f7f-a0c2-708fbec42190")
-		(property "Reference" "C19"
-			(at 214.63 109.2262 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10nF"
-			(at 214.63 111.7662 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 212.09 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 212.09 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 212.09 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d336fe15-c4dd-4c1c-be59-802d73e90f04")
-		)
-		(pin "1"
-			(uuid "a82eefb6-ebd7-415e-8fa2-ec039eb48525")
-		)
-		(instances
-			(project "23cm-trx-kicad"
-				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -8832,31 +8648,35 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 196.85 41.91 90)
+		(at 53.34 68.58 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "0d095887-4ee7-41de-9af4-b66bab952050")
-		(property "Reference" "R4"
-			(at 196.85 48.26 90)
+		(fields_autoplaced yes)
+		(uuid "0cd9b02b-3d5f-40c4-8d6a-eab16b561539")
+		(property "Reference" "R14"
+			(at 50.8 67.3099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "27K"
-			(at 196.85 45.72 90)
+		(property "Value" "150K"
+			(at 50.8 69.8499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 196.85 41.91 0)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 53.34 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8864,8 +8684,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 196.85 41.91 0)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1503T5E_C17470.pdf"
+			(at 53.34 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8874,7 +8694,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 196.85 41.91 0)
+			(at 53.34 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8882,85 +8702,43 @@
 				(hide yes)
 			)
 		)
-		(pin "2"
-			(uuid "00d8af94-046b-415b-ae30-ae28e6dae00b")
+		(property "MPN" "0805W8F1503T5E"
+			(at 53.34 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C17470"
+			(at 53.34 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal"
+			(at 53.34 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
 		(pin "1"
-			(uuid "60e7ffba-5c0e-440c-b730-18d9cf2ea959")
+			(uuid "c8108864-8481-456d-bbf0-16776e2a4f24")
+		)
+		(pin "2"
+			(uuid "60229131-6250-461b-ba2b-d3a167e48b7a")
 		)
 		(instances
 			(project "23cm-trx-kicad"
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 201.93 30.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0ec273d0-1883-403d-8fef-adad617dea86")
-		(property "Reference" "C2"
-			(at 204.47 29.2162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 204.47 31.7562 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 201.93 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 201.93 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 201.93 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8cc0cfa0-205e-42e2-9a14-50defb9ae423")
-		)
-		(pin "1"
-			(uuid "03c9f264-67e3-4e00-a9a2-b52407307cd7")
-		)
-		(instances
-			(project "23cm-trx-kicad"
-				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "C2")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -9004,7 +8782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1810101110_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--1N4148WS_C2128.pdf"
 			(at 87.63 91.44 0)
 			(effects
 				(font
@@ -9040,6 +8818,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "1N4148WS"
+			(at 87.63 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2128"
+			(at 87.63 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3c1d2173-45a4-4bc8-94e6-9eec65321333")
 		)
@@ -9056,42 +8852,34 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 247.65 27.94 270)
-		(mirror x)
+		(lib_id "Device:C_Small")
+		(at 200.66 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "154e150e-b524-41ad-9da3-59bafc9275cf")
-		(property "Reference" "R10"
-			(at 247.65 34.29 90)
+		(uuid "13ed72c4-855a-4e2e-bbfa-51bc4de630dd")
+		(property "Reference" "C23"
+			(at 203.2 153.6762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "2.2M"
-			(at 247.65 31.75 90)
+		(property "Value" "100nF"
+			(at 203.2 156.2162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 247.65 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 247.65 27.94 0)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 200.66 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9099,8 +8887,44 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small US symbol"
-			(at 247.65 27.94 0)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf"
+			(at 200.66 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 200.66 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
+			(at 200.66 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21B104KCFNNNE"
+			(at 200.66 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 200.66 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9109,15 +8933,111 @@
 			)
 		)
 		(pin "2"
-			(uuid "46e2e238-862e-4002-8d6c-6e9d37176686")
+			(uuid "22a4edc5-92fd-43d4-9e33-b7494e8e919e")
 		)
 		(pin "1"
-			(uuid "c69a85cd-66a2-4876-867d-f4ec4c5188f7")
+			(uuid "4a161035-abe5-4635-aa35-9f930d63d731")
 		)
 		(instances
-			(project ""
+			(project "23cm-trx-kicad"
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "R10")
+					(reference "C23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 218.44 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "142482b9-2250-4384-bf9d-135e81982df6")
+		(property "Reference" "C3"
+			(at 220.98 29.2162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 220.98 31.7562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 218.44 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf"
+			(at 218.44 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 218.44 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
+			(at 218.44 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21B104KCFNNNE"
+			(at 218.44 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 218.44 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f0a396a6-9aa7-4913-b081-4c623fa7d79a")
+		)
+		(pin "1"
+			(uuid "746cb7d2-95d6-4b1e-be7c-8e09dfc4e332")
+		)
+		(instances
+			(project "23cm-trx-kicad"
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -9152,7 +9072,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 88.9 68.58 0)
 			(effects
 				(font
@@ -9161,7 +9081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf"
 			(at 88.9 68.58 0)
 			(effects
 				(font
@@ -9171,6 +9091,33 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 88.9 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
+			(at 88.9 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21B104KCFNNNE"
+			(at 88.9 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
 			(at 88.9 68.58 0)
 			(effects
 				(font
@@ -9189,6 +9136,100 @@
 			(project ""
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
 					(reference "C10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 229.87 41.91 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1f134335-6188-406a-ba27-885661dd9e89")
+		(property "Reference" "R8"
+			(at 229.87 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "27K"
+			(at 229.87 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 229.87 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F2702T5E_C17593.pdf"
+			(at 229.87 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 229.87 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0805W8F2702T5E"
+			(at 229.87 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C17593"
+			(at 229.87 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal"
+			(at 229.87 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d9ffa57d-082b-4f01-b2d9-9ee703e63e99")
+		)
+		(pin "1"
+			(uuid "cd0a1e02-023c-4632-ab07-318d201c5177")
+		)
+		(instances
+			(project "23cm-trx-kicad"
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -9222,7 +9263,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 127 35.56 0)
 			(effects
 				(font
@@ -9231,7 +9272,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F4701T5E_C17673.pdf"
 			(at 127 35.56 0)
 			(effects
 				(font
@@ -9241,6 +9282,33 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 127 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0805W8F4701T5E"
+			(at 127 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C17673"
+			(at 127 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal"
 			(at 127 35.56 0)
 			(effects
 				(font
@@ -9293,7 +9361,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 53.34 86.36 0)
 			(effects
 				(font
@@ -9302,7 +9370,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1503T5E_C17470.pdf"
 			(at 53.34 86.36 0)
 			(effects
 				(font
@@ -9312,6 +9380,33 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 53.34 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0805W8F1503T5E"
+			(at 53.34 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C17470"
+			(at 53.34 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal"
 			(at 53.34 86.36 0)
 			(effects
 				(font
@@ -9360,7 +9455,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 196.85 27.94 0)
 			(effects
 				(font
@@ -9369,7 +9464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F2702T5E_C17593.pdf"
 			(at 196.85 27.94 0)
 			(effects
 				(font
@@ -9387,6 +9482,33 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "0805W8F2702T5E"
+			(at 196.85 27.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C17593"
+			(at 196.85 27.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal"
+			(at 196.85 27.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d4b15041-865a-437f-abd4-26c7287dc198")
 		)
@@ -9397,6 +9519,104 @@
 			(project ""
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
 					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 120.65 50.8 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "33c7cb37-c11e-42d2-8398-505d755e6fae")
+		(property "Reference" "C1"
+			(at 118.11 49.5362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 118.11 52.0762 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 120.65 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf"
+			(at 120.65 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 120.65 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
+			(at 120.65 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21B104KCFNNNE"
+			(at 120.65 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 120.65 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "abc4f101-c6fc-442e-b8d0-e2c64db31432")
+		)
+		(pin "1"
+			(uuid "2003be72-c8d7-4bcd-aff0-e0a8a23c7915")
+		)
+		(instances
+			(project "23cm-trx-kicad"
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -9488,145 +9708,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 120.65 50.8 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3e4c9cd4-b314-4238-8ba8-468a26ccf874")
-		(property "Reference" "C1"
-			(at 118.11 49.5362 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 118.11 52.0762 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 120.65 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 120.65 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 120.65 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "891f0a1f-7ac3-40b3-a2a0-fc7943725bf2")
-		)
-		(pin "1"
-			(uuid "e04f5717-eebd-46a3-b173-3bb7c780ee39")
-		)
-		(instances
-			(project ""
-				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 234.95 44.45 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4111942e-c050-4c1d-b8bf-f7af2d10fbc4")
-		(property "Reference" "C7"
-			(at 237.49 43.1862 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "3.3nF"
-			(at 237.49 45.7262 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 234.95 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 234.95 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 234.95 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "60e6cc4d-a39e-4708-a7bd-2ced4576bcc8")
-		)
-		(pin "1"
-			(uuid "c537f115-c1f2-46a8-9428-3b94b4dc788a")
-		)
-		(instances
-			(project "23cm-trx-kicad"
-				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "C7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Polarized_Small")
 		(at 259.08 82.55 90)
 		(unit 1)
@@ -9652,7 +9733,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x10"
 			(at 259.08 82.55 0)
 			(effects
 				(font
@@ -9661,7 +9742,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Nichicon-UCD1H221MNL1GS_C116211.pdf"
 			(at 259.08 82.55 0)
 			(effects
 				(font
@@ -9679,6 +9760,33 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "UCD1H221MNL1GS"
+			(at 259.08 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C116211"
+			(at 259.08 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Nichicon"
+			(at 259.08 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "863b8f6d-e9b1-4057-bef2-67451ace4022")
 		)
@@ -9689,143 +9797,6 @@
 			(project ""
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
 					(reference "C13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 213.36 41.91 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "42e0a07f-dabd-4788-9cd8-3481f3a611f8")
-		(property "Reference" "R7"
-			(at 213.36 48.26 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "27K"
-			(at 213.36 45.72 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 213.36 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 213.36 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 213.36 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "3d9f1460-6b29-4571-92d7-7d62f4dd5a03")
-		)
-		(pin "1"
-			(uuid "bcffac0f-cd32-4927-b608-ed6812adc1e1")
-		)
-		(instances
-			(project "23cm-trx-kicad"
-				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "R7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 156.21 121.92 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "438acb43-3e67-49e0-89b2-d40bef65bae7")
-		(property "Reference" "C17"
-			(at 158.75 120.6562 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1nF"
-			(at 158.75 123.1962 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 156.21 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 156.21 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 156.21 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8fb89a29-d219-43b0-b78f-486cc3a0ce2d")
-		)
-		(pin "2"
-			(uuid "6ba0503f-0831-472e-9968-0a80c7a363ab")
-		)
-		(instances
-			(project ""
-				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -9858,7 +9829,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 49.53 78.74 0)
 			(effects
 				(font
@@ -9867,7 +9838,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B105KBFNNNE_C28323.pdf"
 			(at 49.53 78.74 0)
 			(effects
 				(font
@@ -9878,6 +9849,33 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 49.53 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28323"
+			(at 49.53 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21B105KBFNNNE"
+			(at 49.53 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 49.53 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9928,7 +9926,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 222.25 110.49 0)
 			(effects
 				(font
@@ -9937,7 +9935,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL31A476MPHNNNE_C96123.pdf"
 			(at 222.25 110.49 0)
 			(effects
 				(font
@@ -9947,6 +9945,33 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
+			(at 222.25 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL31A476MPHNNNE"
+			(at 222.25 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C96123"
+			(at 222.25 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
 			(at 222.25 110.49 0)
 			(effects
 				(font
@@ -10068,7 +10093,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 248.92 90.17 0)
 			(effects
 				(font
@@ -10077,7 +10102,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B473KBCNNNC_C53134.pdf"
 			(at 248.92 90.17 0)
 			(effects
 				(font
@@ -10087,6 +10112,33 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 248.92 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21B473KBCNNNC"
+			(at 248.92 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C53134"
+			(at 248.92 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
 			(at 248.92 90.17 0)
 			(effects
 				(font
@@ -10105,6 +10157,113 @@
 			(project ""
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
 					(reference "C14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 91.44 91.44 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5945fb01-7819-4878-b111-b49ebeefd3a2")
+		(property "Reference" "D3"
+			(at 93.98 90.1699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 93.98 92.7099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 91.44 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1810101110_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--1N4148WS_C2128.pdf"
+			(at 91.44 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 91.44 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 91.44 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 91.44 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N4148WS"
+			(at 91.44 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2128"
+			(at 91.44 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7367b814-3115-494c-8c5e-0c761ce68cd0")
+		)
+		(pin "2"
+			(uuid "5f74e82f-40cb-4d62-b78f-300bfd8d2137")
+		)
+		(instances
+			(project "23cm-trx-kicad"
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -10147,7 +10306,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzx84c2v4.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2311171118_hongjiacheng-BZX84C3V3_C19077467.pdf"
 			(at 184.15 153.67 0)
 			(effects
 				(font
@@ -10158,6 +10317,33 @@
 		)
 		(property "Description" "300mW Zener Diode, SOT-23"
 			(at 184.15 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C19077467"
+			(at 184.15 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BZX84C3V3"
+			(at 184.15 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "hongjiacheng"
+			(at 184.15 153.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10261,15 +10447,15 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 229.87 27.94 90)
+		(at 196.85 41.91 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "68d4f634-9546-4bec-bd61-ba05ad538d06")
-		(property "Reference" "R6"
-			(at 229.87 34.29 90)
+		(uuid "6a505355-2d7e-4c23-82d0-3da4ac27f510")
+		(property "Reference" "R4"
+			(at 196.85 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10277,15 +10463,15 @@
 			)
 		)
 		(property "Value" "27K"
-			(at 229.87 31.75 90)
+			(at 196.85 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 229.87 27.94 0)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 196.85 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10293,8 +10479,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 229.87 27.94 0)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F2702T5E_C17593.pdf"
+			(at 196.85 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10303,7 +10489,34 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 229.87 27.94 0)
+			(at 196.85 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0805W8F2702T5E"
+			(at 196.85 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C17593"
+			(at 196.85 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal"
+			(at 196.85 41.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10312,15 +10525,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "c95aa2d4-9537-4ea2-8c4d-de9bfc476d8e")
+			(uuid "4ed8b5c8-dc5b-4b42-808c-4c175fa57398")
 		)
 		(pin "1"
-			(uuid "378051c0-fb2b-4bfa-bdb1-22d6717f3f18")
+			(uuid "ebad7fa7-443e-4991-9d95-492326913473")
 		)
 		(instances
 			(project "23cm-trx-kicad"
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "R6")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -10328,15 +10541,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 254 30.48 0)
+		(at 167.64 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "6d25db17-7365-456d-ae48-842dfcabfbe1")
-		(property "Reference" "C8"
-			(at 256.54 29.2162 0)
+		(uuid "6ae38cca-1b90-4c4b-a6b0-5200fa11d5c4")
+		(property "Reference" "C18"
+			(at 170.18 130.8162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10344,8 +10557,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10nF"
-			(at 256.54 31.7562 0)
+		(property "Value" "1nF"
+			(at 170.18 133.3562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10353,8 +10566,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 254 30.48 0)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 167.64 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10362,8 +10575,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 254 30.48 0)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-1206B102K202NT_C9196.pdf"
+			(at 167.64 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10372,7 +10585,34 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 254 30.48 0)
+			(at 167.64 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1206B102K202NT"
+			(at 167.64 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C9196"
+			(at 167.64 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Fenghua"
+			(at 167.64 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10381,15 +10621,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "05abe125-038e-4b93-91f3-d7f9ad85609b")
+			(uuid "648fb1d8-4b89-4acd-a80e-ecbd25d965aa")
 		)
 		(pin "1"
-			(uuid "afe44ff2-eafc-45d9-ad6a-c1eb9a7f6553")
+			(uuid "bdd68157-37b8-4981-954d-1a09f978dfe9")
 		)
 		(instances
 			(project "23cm-trx-kicad"
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "C8")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -10552,16 +10792,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 53.34 68.58 0)
+		(lib_id "Device:C_Small")
+		(at 212.09 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "7ebd672e-a635-4dd9-9f13-fc0b0a9c54ec")
-		(property "Reference" "R14"
-			(at 55.88 67.3099 0)
+		(uuid "79736f76-95ee-47ff-a297-db55959ea3d9")
+		(property "Reference" "C19"
+			(at 214.63 109.2262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10569,8 +10809,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150K"
-			(at 55.88 69.8499 0)
+		(property "Value" "10nF"
+			(at 214.63 111.7662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10578,8 +10818,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 53.34 68.58 0)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 212.09 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10587,8 +10827,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 53.34 68.58 0)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B103KBANNNC_C1710.pdf"
+			(at 212.09 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10596,8 +10836,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small US symbol"
-			(at 53.34 68.58 0)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 212.09 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10605,51 +10845,8 @@
 				(hide yes)
 			)
 		)
-		(pin "1"
-			(uuid "abbfd903-e78a-4731-ae11-bd6942a93022")
-		)
-		(pin "2"
-			(uuid "81a499b1-3c77-4e82-8e00-3dc257411654")
-		)
-		(instances
-			(project ""
-				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "R14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 248.92 85.09 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7fb578d5-8573-42b3-be8d-29c2d794ef00")
-		(property "Reference" "R9"
-			(at 251.46 83.8199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "12"
-			(at 251.46 86.3599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 248.92 85.09 0)
+		(property "LCSC Part #" "C1710"
+			(at 212.09 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10657,8 +10854,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 248.92 85.09 0)
+		(property "MPN" "CL21B103KBANNNC"
+			(at 212.09 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10666,8 +10863,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small US symbol"
-			(at 248.92 85.09 0)
+		(property "Manufacturer" "Samsung"
+			(at 212.09 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10676,15 +10873,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "943613a1-4e0f-4769-a34c-e51155ea57dc")
+			(uuid "a72397e6-31ac-47c8-b989-54f8131acdf6")
 		)
 		(pin "1"
-			(uuid "83612104-8ec7-4557-922f-9e0c9516351b")
+			(uuid "2905cfeb-96cc-40fa-8d9f-4c8e4feaf497")
 		)
 		(instances
-			(project ""
+			(project "23cm-trx-kicad"
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "R9")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -10823,73 +11020,6 @@
 			(project ""
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
 					(reference "MK1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 229.87 41.91 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "95553728-1c03-4d8c-80eb-8bd398d84919")
-		(property "Reference" "R8"
-			(at 229.87 48.26 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "27K"
-			(at 229.87 45.72 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 229.87 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 229.87 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 229.87 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "724e6511-4c6c-4773-9734-c2394d2d57b9")
-		)
-		(pin "1"
-			(uuid "52f20ecf-7704-4b43-931e-e82818673929")
-		)
-		(instances
-			(project "23cm-trx-kicad"
-				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -11043,13 +11173,109 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
+		(at 234.95 44.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9beb8d6a-06f0-4dbc-b872-2558a565e76c")
+		(property "Reference" "C7"
+			(at 237.49 43.1862 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "3.3nF"
+			(at 237.49 45.7262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 234.95 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10B332KB8NNNC_C1613.pdf"
+			(at 234.95 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 234.95 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B332KB8NNNC"
+			(at 234.95 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C1613"
+			(at 234.95 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 234.95 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0b12fb75-08a8-4163-b6ca-d5f1ef4f450d")
+		)
+		(pin "1"
+			(uuid "dcd76547-91aa-4488-96be-a8356d05f629")
+		)
+		(instances
+			(project "23cm-trx-kicad"
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
 		(at 160.02 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "a53cc91f-8408-4461-9382-2d0f7f588834")
+		(uuid "9f870fc7-f262-4c8e-bd00-35dcd6cec8ed")
 		(property "Reference" "C22"
 			(at 162.56 138.4362 0)
 			(effects
@@ -11068,7 +11294,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 160.02 139.7 0)
 			(effects
 				(font
@@ -11077,7 +11303,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-1206B102K202NT_C9196.pdf"
 			(at 160.02 139.7 0)
 			(effects
 				(font
@@ -11095,11 +11321,38 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "1206B102K202NT"
+			(at 160.02 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C9196"
+			(at 160.02 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Fenghua"
+			(at 160.02 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
-			(uuid "8d0d3787-ad10-4d35-abe7-dd2bd172c6da")
+			(uuid "22dc6e8c-5fc5-43dc-9b23-eb5dfb69dc45")
 		)
 		(pin "1"
-			(uuid "9675184e-b3de-4937-9443-e8538aaa81ac")
+			(uuid "fde1b4ed-b66b-45b0-8fb2-19cc745725b4")
 		)
 		(instances
 			(project "23cm-trx-kicad"
@@ -11111,104 +11364,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
-		(at 91.44 91.44 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a74a5d78-0d3c-4e76-9e6c-66dfa1729171")
-		(property "Reference" "D3"
-			(at 93.98 92.7101 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 93.98 90.1701 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 91.44 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 91.44 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 91.44 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 91.44 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 91.44 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "43d85c9f-dc89-4440-8d4f-81530b766ad5")
-		)
-		(pin "2"
-			(uuid "2a699649-dcd9-42c7-9293-cfedc1b862d0")
-		)
-		(instances
-			(project "23cm-trx-kicad"
-				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "D3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 213.36 27.94 90)
+		(at 229.87 27.94 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "a903316b-6870-402d-9aa0-691ae3225e12")
-		(property "Reference" "R5"
-			(at 213.36 34.29 90)
+		(uuid "9fbe7245-5f9b-464e-bae0-f364e2ee3029")
+		(property "Reference" "R6"
+			(at 229.87 34.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11216,15 +11381,15 @@
 			)
 		)
 		(property "Value" "27K"
-			(at 213.36 31.75 90)
+			(at 229.87 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 213.36 27.94 0)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 229.87 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11232,8 +11397,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 213.36 27.94 0)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F2702T5E_C17593.pdf"
+			(at 229.87 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11242,7 +11407,34 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 213.36 27.94 0)
+			(at 229.87 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0805W8F2702T5E"
+			(at 229.87 27.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C17593"
+			(at 229.87 27.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal"
+			(at 229.87 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11251,15 +11443,208 @@
 			)
 		)
 		(pin "2"
-			(uuid "528fb89f-bb1a-4113-8f15-7e4799d47605")
+			(uuid "f3484585-04d4-4df2-89b0-a8944bf7cfc7")
 		)
 		(pin "1"
-			(uuid "6c81fd6d-dc1f-4f33-8298-19f3f1b496fd")
+			(uuid "8b3fef8e-44fe-4d9b-a5d2-1a22b5191298")
 		)
 		(instances
 			(project "23cm-trx-kicad"
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "R5")
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 156.21 121.92 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a377ffcb-ab70-40e0-b531-440981203463")
+		(property "Reference" "C17"
+			(at 158.75 123.1838 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1nF"
+			(at 158.75 120.6438 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 156.21 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-1206B102K202NT_C9196.pdf"
+			(at 156.21 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 156.21 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1206B102K202NT"
+			(at 156.21 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C9196"
+			(at 156.21 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Fenghua"
+			(at 156.21 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "da00c2ec-c045-4e19-bb00-c0b6f77e03e2")
+		)
+		(pin "1"
+			(uuid "4189839b-fbda-4caf-b5c5-6666c6c92fd7")
+		)
+		(instances
+			(project "23cm-trx-kicad"
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "C17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 218.44 44.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a5ea33d1-8cd5-4ac2-bcb9-7b675a6239ce")
+		(property "Reference" "C6"
+			(at 220.98 43.1862 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "3.3nF"
+			(at 220.98 45.7262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 218.44 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10B332KB8NNNC_C1613.pdf"
+			(at 218.44 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 218.44 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B332KB8NNNC"
+			(at 218.44 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C1613"
+			(at 218.44 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 218.44 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "af3abee4-5d8f-43fc-ad89-d894fc8cd2d5")
+		)
+		(pin "1"
+			(uuid "9c984f13-aa1d-4ce6-9412-19ce3069d9be")
+		)
+		(instances
+			(project "23cm-trx-kicad"
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -11426,7 +11811,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 243.84 71.12 0)
 			(effects
 				(font
@@ -11435,7 +11820,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B224KBFNNNE_C5378.pdf"
 			(at 243.84 71.12 0)
 			(effects
 				(font
@@ -11453,6 +11838,33 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL21B224KBFNNNE"
+			(at 243.84 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5378"
+			(at 243.84 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 243.84 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "968f97b5-bbcb-4bae-89ea-615419d08911")
 		)
@@ -11463,6 +11875,100 @@
 			(project ""
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
 					(reference "C12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 213.36 41.91 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b667cdf0-8e9a-4434-b7e6-6557dcffd4d2")
+		(property "Reference" "R7"
+			(at 213.36 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "27K"
+			(at 213.36 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 213.36 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F2702T5E_C17593.pdf"
+			(at 213.36 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 213.36 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0805W8F2702T5E"
+			(at 213.36 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C17593"
+			(at 213.36 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal"
+			(at 213.36 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a18f96f4-bd1f-404d-b7db-659c76e6311f")
+		)
+		(pin "1"
+			(uuid "6bd2438a-b725-4f9a-81c1-132acadb30ea")
+		)
+		(instances
+			(project "23cm-trx-kicad"
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -11601,6 +12107,196 @@
 			(project ""
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
 					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 234.95 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bba1be02-7651-41e0-9862-840bfe92b5d4")
+		(property "Reference" "C4"
+			(at 237.49 29.2162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 237.49 31.7562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 234.95 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf"
+			(at 234.95 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 234.95 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
+			(at 234.95 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21B104KCFNNNE"
+			(at 234.95 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 234.95 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e7197e16-6792-4217-97e8-e552de250b7f")
+		)
+		(pin "1"
+			(uuid "56a46b97-d2ad-4baa-a4c0-3098102353c3")
+		)
+		(instances
+			(project "23cm-trx-kicad"
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 213.36 27.94 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bbcf898c-c9c2-47c1-a715-124e9adb32e6")
+		(property "Reference" "R5"
+			(at 213.36 34.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "27K"
+			(at 213.36 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 213.36 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F2702T5E_C17593.pdf"
+			(at 213.36 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 213.36 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0805W8F2702T5E"
+			(at 213.36 27.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C17593"
+			(at 213.36 27.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal"
+			(at 213.36 27.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "afc9ce3d-be3b-46b7-8530-ebbe09c4645e")
+		)
+		(pin "1"
+			(uuid "b0cf4622-5532-4d92-a008-63acbcefa2ea")
+		)
+		(instances
+			(project "23cm-trx-kicad"
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -11750,75 +12446,6 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 234.95 30.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "bde38804-1577-44eb-9050-b0e5ae8236e7")
-		(property "Reference" "C4"
-			(at 237.49 29.2162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 237.49 31.7562 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 234.95 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 234.95 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 234.95 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b8473195-e409-4a0c-b39d-0e3ff75cd599")
-		)
-		(pin "1"
-			(uuid "cf55807b-5160-4b09-bb02-17f78b0abf61")
-		)
-		(instances
-			(project "23cm-trx-kicad"
-				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
 		(at 132.08 113.03 0)
 		(mirror y)
 		(unit 1)
@@ -11845,7 +12472,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 132.08 113.03 0)
 			(effects
 				(font
@@ -11854,7 +12481,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-1206B102K202NT_C9196.pdf"
 			(at 132.08 113.03 0)
 			(effects
 				(font
@@ -11864,6 +12491,33 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 132.08 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1206B102K202NT"
+			(at 132.08 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C9196"
+			(at 132.08 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Fenghua"
 			(at 132.08 113.03 0)
 			(effects
 				(font
@@ -11964,6 +12618,102 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 201.93 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c79fda8e-d628-42e3-bd70-41e58386e0bb")
+		(property "Reference" "C2"
+			(at 204.47 29.2162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 204.47 31.7562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 201.93 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf"
+			(at 201.93 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 201.93 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
+			(at 201.93 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21B104KCFNNNE"
+			(at 201.93 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 201.93 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "db98bd46-63b3-4e11-b590-9bcef4e62075")
+		)
+		(pin "1"
+			(uuid "ae65dba8-047a-42f6-8dd2-54a0b48cffb6")
+		)
+		(instances
+			(project "23cm-trx-kicad"
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 69.85 96.52 270)
 		(mirror x)
@@ -11989,7 +12739,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 69.85 96.52 0)
 			(effects
 				(font
@@ -11998,7 +12748,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1502T5E_C17475.pdf"
 			(at 69.85 96.52 0)
 			(effects
 				(font
@@ -12009,6 +12759,33 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 69.85 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C17475"
+			(at 69.85 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0805W8F1502T5E"
+			(at 69.85 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal"
+			(at 69.85 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12058,7 +12835,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 149.86 139.7 0)
 			(effects
 				(font
@@ -12067,7 +12844,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B103KBANNNC_C1710.pdf"
 			(at 149.86 139.7 0)
 			(effects
 				(font
@@ -12077,6 +12854,33 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 149.86 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C1710"
+			(at 149.86 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21B103KBANNNC"
+			(at 149.86 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
 			(at 149.86 139.7 0)
 			(effects
 				(font
@@ -12245,6 +13049,102 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 254 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d616e556-c795-4e68-ae17-4c4ed6de5c60")
+		(property "Reference" "C8"
+			(at 256.54 29.2162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10nF"
+			(at 256.54 31.7562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 254 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B103KBANNNC_C1710.pdf"
+			(at 254 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 254 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C1710"
+			(at 254 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21B103KBANNNC"
+			(at 254 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 254 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "23d90444-4595-46be-b491-4484bec6a70d")
+		)
+		(pin "1"
+			(uuid "75074708-49ff-4fe0-9266-eca681d19001")
+		)
+		(instances
+			(project "23cm-trx-kicad"
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 151.13 113.03 0)
 		(unit 1)
@@ -12389,145 +13289,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 218.44 44.45 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e3b239aa-337a-4891-944f-146f2f230dbf")
-		(property "Reference" "C6"
-			(at 220.98 43.1862 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "3.3nF"
-			(at 220.98 45.7262 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 218.44 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 218.44 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 218.44 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "073f3c8a-7920-4c0c-a527-8df131a515e5")
-		)
-		(pin "1"
-			(uuid "0aad4b7d-e6a1-4828-a144-2bc07b596af7")
-		)
-		(instances
-			(project "23cm-trx-kicad"
-				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "C6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 167.64 132.08 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e7e50c57-a2b4-4f69-92db-1df99c425589")
-		(property "Reference" "C18"
-			(at 170.18 130.8162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1nF"
-			(at 170.18 133.3562 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 167.64 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 167.64 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 167.64 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a36a3c7f-2bf0-4d9a-9929-5084e65f89e4")
-		)
-		(pin "2"
-			(uuid "560939b5-9f7d-4b8d-acf3-33d7b3ab3384")
-		)
-		(instances
-			(project "23cm-trx-kicad"
-				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
-					(reference "C18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 53.34 166.37 0)
 		(mirror y)
@@ -12624,7 +13385,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 109.22 85.09 0)
 			(effects
 				(font
@@ -12633,7 +13394,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205312316_UNI-ROYAL-Uniroyal-Elec-0805W8F1003T5E_C149504.pdf"
 			(at 109.22 85.09 0)
 			(effects
 				(font
@@ -12644,6 +13405,33 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 109.22 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C149504"
+			(at 109.22 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0805W8F1003T5E"
+			(at 109.22 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal"
+			(at 109.22 85.09 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12973,6 +13761,103 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
+		(at 248.92 85.09 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "eff23a3f-a971-47a0-9aeb-e773e4b39670")
+		(property "Reference" "R9"
+			(at 251.46 83.8199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10"
+			(at 251.46 86.3599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 248.92 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F100JT5E_C17415.pdf"
+			(at 248.92 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 248.92 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0805W8F100JT5E"
+			(at 248.92 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C17415"
+			(at 248.92 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal"
+			(at 248.92 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e9c6b005-b207-46bf-9ace-ba605abf4038")
+		)
+		(pin "2"
+			(uuid "45fb6c74-6c99-45e0-a189-5d51523033d5")
+		)
+		(instances
+			(project "23cm-trx-kicad"
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
 		(at 234.95 68.58 0)
 		(mirror y)
 		(unit 1)
@@ -12999,7 +13884,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 234.95 68.58 0)
 			(effects
 				(font
@@ -13008,7 +13893,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F100JT5E_C17415.pdf"
 			(at 234.95 68.58 0)
 			(effects
 				(font
@@ -13018,6 +13903,33 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 234.95 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0805W8F100JT5E"
+			(at 234.95 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C17415"
+			(at 234.95 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal"
 			(at 234.95 68.58 0)
 			(effects
 				(font
@@ -13036,6 +13948,101 @@
 			(project ""
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
 					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 81.28 81.28 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f7e79779-62bd-46a0-9cb4-0b30b836dca7")
+		(property "Reference" "C9"
+			(at 81.2863 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100nF"
+			(at 81.2863 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 81.28 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf"
+			(at 81.28 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 81.28 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C28233"
+			(at 81.28 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21B104KCFNNNE"
+			(at 81.28 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 81.28 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "657b856f-0f72-4af6-814d-aa931736300a")
+		)
+		(pin "1"
+			(uuid "01d44702-50f8-4ff4-8117-9afd25193372")
+		)
+		(instances
+			(project "23cm-trx-kicad"
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -13222,7 +14229,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_STMicroelectronics-L78L09ABUTR_C52103.pdf"
 			(at 91.44 41.91 0)
 			(effects
 				(font
@@ -13232,6 +14239,33 @@
 			)
 		)
 		(property "Description" "Positive 100mA 30V Linear Regulator, Fixed Output 9V, SOT-89"
+			(at 91.44 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "L78L09ABUTR"
+			(at 91.44 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C52103"
+			(at 91.44 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "STMicro"
 			(at 91.44 40.64 0)
 			(effects
 				(font
@@ -13253,6 +14287,100 @@
 			(project ""
 				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
 					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 247.65 27.94 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ff5dcf21-3444-4907-8a1d-07806c3b81fd")
+		(property "Reference" "R10"
+			(at 247.65 34.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "27K"
+			(at 247.65 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 247.65 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F2702T5E_C17593.pdf"
+			(at 247.65 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 247.65 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0805W8F2702T5E"
+			(at 247.65 27.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C17593"
+			(at 247.65 27.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal"
+			(at 247.65 27.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9cc3c01f-996a-4f0e-a894-e9aa466ecc61")
+		)
+		(pin "1"
+			(uuid "917a0430-2c40-4ed9-8a60-5d61d715f583")
+		)
+		(instances
+			(project "23cm-trx-kicad"
+				(path "/02f64fd1-78db-4ce7-af00-a5ea9858044e"
+					(reference "R10")
 					(unit 1)
 				)
 			)
