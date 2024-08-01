@@ -4,7 +4,7 @@ An open source 23cm narrow band FM transceiver.
 
 [KiCad](https://www.kicad.org/) format, optimized for building with [LCSC](https://www.lcsc.com/) and [JLCPCB](https://www.jlcpcb.com/).
 
-Status: Schematic under active redefinition, BOM largely verified, firmware converted to platformio and compiling, some required symbols drawn, schematic as yet incomplete and revised layout not yet begun. Some mechanical design work and supply chain research completed. Getting bogged down in theory but learning a lot.
+Status: Schematic under active redefinition, BOM largely verified, firmware converted to platformio and compiling, some required symbols drawn, schematic as yet incomplete and revised layout not yet begun. Some mechanical design work and supply chain research completed. Getting bogged down in theory but learning a lot. Modeled some subsystems.
 
 ## Background
 
@@ -43,6 +43,6 @@ Werner Mauser (JN48OL)'s [forked repository](https://github.com/wemaus/23cm-NBFM
 
 ## Contents
 
- * __docs__: Design documentation.
+ * __docs__: Design documentation. Some interesting stuff in here.
  * __firmware__: Currently unaltered firmware from Werner Mauser (JN48OL) converted to compile with platformio.
  * __23cm-trx-kicad__: KiCad project directory for the 23cm transceiver.
