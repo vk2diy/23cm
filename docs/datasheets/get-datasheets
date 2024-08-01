@@ -1,3 +1,4 @@
 wget -nc 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADF4153.pdf'
 wget -nc 'https://www.discriminator.nl/ic/mc3362.pdf'
 wget -nc 'http://rfelektronik.se/manuals/Datasheets/MC13135.pdf'
+wget -nc 'https://www.qsl.net/n9zia/omnitracs/IAM81008.pdf'
