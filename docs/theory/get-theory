@@ -16,3 +16,4 @@ wget -nc https://www.analog.com/media/en/training-seminars/tutorials/MT-086.pdf
 wget -nc https://web.archive.org/web/20181221105151/http://www.eas.uccs.edu/~mwickert/ece5675/lecture_notes/5675_APLL_lab.pdf
 wget -nc https://web.archive.org/web/20220123044939/https://rfic.eecs.berkeley.edu/ee242/pdf/Module_7_3_PLL.pdf
 wget -nc https://pallen.ece.gatech.edu/Academic/ECE_6440/Summer_2003/L060-LPLL-II(2UP).pdf
+wget -nc http://www.lansdale.com/images/subpages/AN980.pdf
