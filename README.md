@@ -28,6 +28,7 @@ Werner Mauser (JN48OL)'s [forked repository](https://github.com/wemaus/23cm-NBFM
  * __Buses__: The "SPI compatible" bus on the ADF4153 was moved to the standard ports. The I2C bus was added to support the new display module and other expansion.
  * __Components__: Near complete reselection with a focus on SMT components available in 2024. General preference to over-specify components where economically insignificant to increase tolerance and longevity.
  * __Display__: Migrate the LCD to an I2C interface. Nominally opens up I2C for other peripherals and features. Much neater in terms of simplifying the schematic. Allows more flexibility in mechanical design/interface mounting. Necessitates re-allocating `MUTE` and `RSSI` to alternate pins, plus software changes. Necessitates off-board module and cable. Programmable backlight with MCU control, and one less knob. User retains option for manual adjustment using module-supplied jumper and internal potentiometer.
+ * __Interface__: Try to migrate potentiometers to MCU-control where feasible, eg. CTCSS/1750MHz tuner, LCD backlight control.
  * __Filters__: [Explicitly modeling](docs/filter-models/) each filter network encountered.
  * __Firmware__: Now compiles with [platformio](https://piolabs.com/).
  * __MCU__: Use an MCU module (Arduino Nano v3) instead of a bare chip in order to reduce cost, increase convenience, support USB programming, and focus the schematic on the application.
