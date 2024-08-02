@@ -1,5 +1,7 @@
 # 9V Emitter Follower Buffer
 
+![image](schematic-capture.png)
+
 This circuit provides stability and noise immunity for the VCO supply.
 
 Here you can see the benefit of the circuit vs. a direct supply connection from the 9V LDO to the VCO VCC pin.
