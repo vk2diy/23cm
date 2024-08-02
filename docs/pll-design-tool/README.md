@@ -2,6 +2,8 @@
 
 The tool recommended by the manufacture of the PLL synthesis chip is [ADIsimPLL](https://www.analog.com/en/lp/resources/adisimpll.html).
 
+The version currently available for download was built on April 18, 2024.
+
 ## Download and install
 
 The tool is designed for Windows but can be downloaded under Linux and run under [wine](https://www.winehq.org/).
@@ -56,6 +58,7 @@ There is an interesting `tips.txt` file included with the software. A lot of it 
 
 ## Screenshots
 
+![image](adisimpll-5.8-about-version.png)
 ![image](adisim-5.8-ibs-support.jpg)
 ![image](adisim-5.8-new-devices.jpg)
 ![image](adisim-5.8-tutorial.jpg)
