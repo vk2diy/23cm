@@ -6,7 +6,7 @@ Here you can see the benefit of the circuit vs. a direct supply connection from 
 
 ![image](9v-emitter-follower-buffer-filter-en.png)
 
-Without a buffer filter, the following would be expected. Note the second and third graphs may be erroneous.
+Without a buffer filter, the following step response would be expected.
 
 ![image](regulator-to-vco-no-buffer-filter-en.png)
 
